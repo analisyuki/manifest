@@ -1,0 +1,38 @@
+{
+  "name": "Analisyuki",
+  "short_name": "Analisyuki",
+  "start_url": "https://www.analisyuki.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "Tempat berbagi tutorial blogger, komputer, android dan berbagai teknologi lainnya.",
+  "icons": [{
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEjEr5DTg-idl3U1fBaNxolwwS4Vk5sIzoqMDr4HsVTDC76R0fW7WfaZGPKuHL60JdqtHlvtQqIpAFR0wczvUpt_fRv-F0sweg3IHLJYLUvNr1cHTtT8jtwqDZKb3BT7hxD-vQNxtuYRWZdGG7XPzAKYNycm2FqaUxkLEhT6-MlKfc0VW25SlRFcQ7Jh=s48",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEicirFT6OGclzKdQ4RVYVGusB9MWoeFivG2oO-HGLDDToPWlCGD-X2i2i9ZicFgz3RIs7hQ6rJkYF5iNSWIrIYrUJuqqB2bzAyHqHJqvjZHhuUGWIelER-Ocf_JwOedzX1ZjSrJR3wrtIc2mLIF50XvK2-9zCOZ6mRumcJmW9emIEFUGZPdqJr2dK6B=s72",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEi_M2mQNp9icZYiQpSpPhAc8ev3071jqF0NB4SYceORcDqsMaGaEakfZ6KIIn7CwoPPZ2XNMQJS2r6k7sVsqJ2QqKuBbr3Dlx-s2rrxPAQkTf_o0vXnvgz7ROdXJW2YMIqGo0Q0vbE-5mPzLTS-7FR95yx7ITGGAp_5_Q7dUCG8wK6j4y3ivwMa7RwM=s96",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEifvGVz2iI0DLsDG-d3_xVdYG1wixK9WMmamMvP0OqEvqneFTLUUdx2faMy71ksJ5IuaDvfw4mcjUsWOk-JwKEdhew1trzAUqXh4o13-y6tv1PSTXvDAKgLPA9eU4uo1RooIo5UUEGo2e8v3OQmtrm5CthaQl-L-GBP6RcU16urKwJJ5M3qGjfocx5-=s144",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEgh87UNhAcd2_rFSShj3ZbWNCHrvW9ixfW5goa_cMZp1gSJ0eDeBoXqIGVBb_Tt47a8kAYOOVOD75G8nw5dTpc1-sguacqAxdMn0IoYIPvguz7f3VVTyDtfws1qPrMlvEGH2f26n2UwE0a37ChNMNzHvR54NOKPr50m6Ety9CgCzoV2IuYhHc2e3t2U=s168",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEiSZp52G8rWSxQuFmFrhd3M-KYTdjz0VYiJsOdcGfuB6lVPRkCgJMDf4Ae30oy_DrxqhE4GhnStNy2MxYK-P_moAELB14r-Gf-vJ3Htn6sFyllRjAHflDaGizLXcl4V-ovgkDnNrVS3nOQXToU4ArtcIl7jZYANIYZBy5_Hq8KpJYc84qQsYvAZzRbe=s192",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEh-fwt-nzvb2ejvCBewcrtZ-9X0l8VcFTGdhu0pwZZp7iuUeXLpu6OcqUMqHVgbfuEGec5QuK1YQkhWuHKSURBHb_YYWpKwz-mBbR8itdXe7ydQmA8C5sdbMX8X2EEdeKiFXiV-dUOvyLVwj0FXpMVaxvXDrBogdNZGa65SuvHNZH1G0C53Kn2oeWMc=s512",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
